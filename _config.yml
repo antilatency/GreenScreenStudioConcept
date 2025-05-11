@@ -1,4 +1,4 @@
 title: "Virtual Production Studio"
-theme: jekyll-theme-slate
+remote_theme: BDHU/minimalist
 color-scheme: dark
 markdown: kramdown
