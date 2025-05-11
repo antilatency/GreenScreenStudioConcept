@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+	<title>cube-svgrepo-com (1)</title>
+	<defs>
+		<image width="800" height="800" id="img1" href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik04LjAwMDAxIDNDOC44Mjg0NCAzIDkuNTAwMDEgMi4zMjg0MyA5LjUwMDAxIDEuNUM5LjUwMDAxIDAuNjcxNTczIDguODI4NDQgMCA4LjAwMDAxIDBDNy4xNzE1OCAwIDYuNTAwMDEgMC42NzE1NzMgNi41MDAwMSAxLjVDNi41MDAwMSAyLjMyODQzIDcuMTcxNTggMyA4LjAwMDAxIDNaIiBmaWxsPSIjMDAwMDAwIi8+DQo8cGF0aCBkPSJNMTIgNFYySDE0VjRDMTQgNS4xMDQ1NyAxMy4xMDQ1IDYgMTIgNkgxMC41NDU0TDEwLjk4OTcgMTZIOC45ODc3M0w4Ljc2NTU3IDExSDcuMjM0MjFMNy4wMTE5MyAxNkg1LjAwOTk1TDUuNDIwMTQgNi43NzMwOEwzLjI5OTk1IDkuNkwxLjY5OTk1IDguNEw0Ljk5OTk1IDRIMTJaIiBmaWxsPSIjMDAwMDAwIi8+DQo8L3N2Zz4="/>
+	</defs>
+	<style>
+		.s0 { fill: #b8ce4c } 
+		.s1 { fill: #262626 } 
+		.s2 { fill: #acc435 } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m68.8 595.1l331.2-392 331.3 392-331.3 191.3z"/>
+	<path fill-rule="evenodd" class="s1" d="m68.8 595.1v-390.4l331.3-191.3v0.1l125.7 189.6-125.8 200.8z"/>
+	<path fill-rule="evenodd" class="s2" d="m400 403.9l0.1-390.4 331.2 191.3v390.3z"/>
+	<use id="person-wave-svgrepo-com" href="#img1" transform="matrix(.345,.198,0,.405,264.91,171.133)"/>
+	<rect width="800" height="800" id="Color Fill 1" style="fill: #ffffff"/>
+</svg>

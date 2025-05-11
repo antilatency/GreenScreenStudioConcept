@@ -1,4 +1,4 @@
-# Introducing the New Lighting Fixture by Antilatency for Virtual Production
+# Lighting for Virtual Production
 
 Antilatency presents a new lighting solution tailored specifically for **Virtual Production** environments. This fixture has been engineered with a focus on essential features, removing unnecessary elements to deliver maximum performance where it truly matters.
 
