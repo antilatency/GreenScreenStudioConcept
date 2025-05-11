@@ -2,9 +2,15 @@
 
 Antilatency presents a new lighting solution tailored specifically for **Virtual Production** environments. This fixture has been engineered with a focus on essential features, removing unnecessary elements to deliver maximum performance where it truly matters.
 
+
+![Colors](CurrentState.jpg)
+*The lighting fixture is currently in the development stage.*
+
 ## Designed for Studio Use
 
-This fixture is intended exclusively for indoor studio use, so it does not include weatherproofing. In return, the design achieves an exceptionally low weight of **3.2 kg** (*243 W  model*), including the power and control module. 
+This fixture is intended exclusively for indoor studio use, so it does not include weatherproofing. In return, the design achieves an exceptionally low weight of **3.2 kg** (*243 W  model*), including the power and control module.
+
+![Colors](Exterior.jpg)
 
 This light weight reduces the structural demands on mounting systems like trusses and pantographs—lowering their cost, simplifying installation, and increasing overall efficiency. The minimal weight is achieved in part because **all structural elements are load-bearing**, including the diffuser.
 
@@ -16,6 +22,8 @@ This lighting fixture is intentionally designed with a high surface-area-to-powe
 
 Since direct physical access to the fixture is usually limited or inconvenient in studio environments, manual controls are not considered essential. The device does **not include** any physical controls such as **knobs or buttons**.
 The fixture is designed for computer-only control, and an E-Ink display provides real-time status and information about the current command source.
+
+![Colors](ControlUnitDesign.png)
 
 The fixture supports **Ethernet/WiFi -> UDP -> Art-Net** for control. Unlike DMX, Art-Net is a **bidirectional protocol** that continuously monitors fixture availability—ensuring that any power or signal loss is immediately detectable during production.
 
@@ -29,6 +37,8 @@ For power, the device uses a standard **120/220V PowerCON input**, along with a 
 
 Compared to most LED panels on the market, this fixture delivers **35% more luminous output per watt** (based on test results). This is made possible by the use of **dielectric mirrors** as internal reflectors beneath the diffuser, covering all inner surfaces of the light chamber.
 
+![Colors](DielectricMirrorPrototype.jpg)
+
 Dielectric mirrors offer **98% reflectivity**, unlike traditional PCB surfaces which reflect less than 80%. 
 
 >*The operating principle of all diffuser-based panels is the same. Light attempts to exit the internal chamber through the diffuser. As it passes through, it splits into two nearly equal parts: one leaves the fixture, while the other is reflected back into the chamber. This reflected light then bounces off the internal surfaces and tries again to escape through the diffuser. As a result, the reflectivity of the internal surfaces is a key factor in achieving high efficiency.*
@@ -37,7 +47,7 @@ Dielectric mirrors offer **98% reflectivity**, unlike traditional PCB surfaces w
 
 The primary goal is to replicate **natural light as closely as possible**. To achieve this, the fixture uses **seven types of LEDs**, including **three phosphor-based types**. These are chosen to produce a **smooth, continuous spectrum** with no sharp gaps or peaks.
 
-
+![Colors](Spectrums.png)
 
 The LEDs are divided into **three control groups**, allowing flexible spectral shaping while maintaining spectral smoothness. White light is generated using **all LEDs simultaneously**, ensuring that in most neutral lighting setups, the fixture operates close to **100% of its total output capacity**. There are **no artificial power limits**—all LEDs can be driven at full strength.
 
