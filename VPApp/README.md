@@ -78,7 +78,7 @@ As a result, Antilatency markers appear as **glowing green dots** in the recorde
 
 1. **Record a short Tracked Video** in the studio.
 
-2. Using the known tracking data and visible marker positions in the video, the system computes:
+2. Using the known tracking data and visible marker positions in the video, **the application computes**:
 
 - **Lens distortion parameters**, including Field of View (FOV)  
 - **Tracker placement** (position and rotation of the tracker)  
