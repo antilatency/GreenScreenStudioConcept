@@ -86,4 +86,4 @@ As a result, Antilatency markers appear as **glowing green dots** in the recorde
 
 
 This workflow **significantly reduces manual calibration time and effort**, streamlining the setup for virtual production.
-![VP App Side](VPAppSide.jpg)
+![VPApp Pillar](VPAppPillar.jpg)
