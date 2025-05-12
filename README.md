@@ -7,7 +7,7 @@
 [VP App](VPApp/README.md)
 
 
-# A Turnkey Mobile VP Studio by Antilatency
+# Virtual Production Studio by Antilatency
 
 Antilatency is launching a new product — a professional virtual production studio, ready to use out of the box with minimal setup. Designed for rapid deployment, the studio requires no more than **2 days from delivery to first shoot**.
 
