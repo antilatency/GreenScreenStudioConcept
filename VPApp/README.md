@@ -63,25 +63,21 @@ Traditionally, lens calibration is **complex and time-consuming** — often requ
 
 **VPApp** introduces a **fast calibration workflow** based on **Tracked Video**.
 
+Each **Antilatency marker** includes:
+   - **IR LEDs** for tracking
+   - A **green status LED** visible to the camera
+   
+![IR Marker](IRMarker.jpg)
+
+As a result, Antilatency markers appear as **glowing green dots** in the recorded video — providing **precise visual reference points** for calibration.
+
 
 #### Process:
 
 1. **Record a short Tracked Video** in the studio.
 ![VP App Side](VPAppSide.jpg)
 
-
-2. Each **Antilatency marker** includes:
-   - **IR LEDs** for tracking
-   - A **green status LED** visible to the camera
-   
-![IR Marker](IRMarker.jpg)
-
-
-As a result, Antilatency markers appear as **glowing green dots** in the recorded video — providing **precise visual reference points** for calibration.
-![Markers Detection](MarkersDetection.jpg)
-
-
-3. Using the known tracking data and visible marker positions in the video, the system computes:
+2. Using the known tracking data and visible marker positions in the video, the system computes:
 
 - **Lens distortion parameters**, including Field of View (FOV)  
 - **Tracker placement** (position and rotation of the tracker)  
