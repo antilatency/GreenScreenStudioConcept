@@ -2,7 +2,10 @@
 
 [Home](https://antilatency.github.io/GreenScreenStudioConcept) |
 [Light fixture](Light/README.md) |
-[Keyer](K0/README.md)
+[Mechanical Design](MechanicalDesign/README.md) |
+[Keyer](K0/README.md) |
+[VP App](VPApp/README.md)
+
 
 # A Turnkey Mobile VP Studio by Antilatency
 
