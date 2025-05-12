@@ -23,6 +23,8 @@ The client will receive structural elements for assembling a 6×6×4.5 meter stu
 - Two sets of chroma key fabric backdrops for uninterrupted operation (no waiting for cleaning)
 - Blackout fabric for the exterior shell
 
+[Learn more](MechanicalDesign/README.md)
+
 ## Next-Gen Light fixtures
 [![AVPS_Concept](LightFixturesTitle.png)](Light/README.md)
 24 lightweight, high-fidelity LED lights engineered by Antilatency specifically for VP.
@@ -51,7 +53,7 @@ This means the calibration video contains everything needed for precise optical 
 Only 15–20 seconds of footage is required to generate a complete and accurate CameraCalibrationProfile.
 To generate the profile, upload the calibration video into the **Antilatency.LensCalibrationTool** —
 the app will return a ready-to-use ``CameraCalibrationProfile.json`` for Unreal Engine.
-[Learn more about TrackedVideo technology](TrackedVideo\README.md)
+[Learn more about TrackedVideo technology](VPApp\README.md)
 
 ## Unreal Engine Keying and Compositing
 How it works:
@@ -68,8 +70,12 @@ This texture is then projected onto a special geometry inside the scene, forming
 
 - Rolling shutter effect compensation
 
+### Garbage Matte
+![UnrealEngineColorGrading](GarbageMatte.png)
 A **Garbage Matte**, defined using the studio background mesh, is also applied at this stage of the pipeline.
 
+### In-Engine color grading and more
+![UnrealEngineColorGrading](UnrealEngineColorGrading.png)
 This approach unlocks a wide range of capabilities for achieving maximum quality:
 
 - Automatic lighting **normalization/denormalization**, improving keying results significantly
