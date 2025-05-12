@@ -32,18 +32,16 @@ Because the tracking is encoded as audio, the video signal remains **100% standa
 
 Tracked Video becomes a **self-contained virtual production (VP) asset**, equally useful for **live rendering** and **offline compositing**.
 
----
 
-#### Native Synchronization
+### Native Synchronization
 
 - **Tracking data is encoded into the audio track.**
 - Since professional cameras maintain a **stable and predictable offset** between video and audio streams, synchronization is **deterministic and stable**.
 - By measuring this fixed offset once, you can **consistently retrieve frame-accurate tracking data** from the Tracked Video.
 - **No need for genlock, timecode matching, or additional sync steps.**
 
----
 
-### How It Works
+## How It Works
 
 #### 1. Tracking Data Collection  
 Antilatency tracker sends real-time positional data via **VP Socket** to the **VPApp**, running on an Android device connected to the VP Socket.
