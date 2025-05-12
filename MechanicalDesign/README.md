@@ -2,19 +2,16 @@
 
 ## Studio Specifications
 
-- **Dimensions**: 6m x 6m x 4.5m – compact and modular.
 ![Frame Overview](FlatFrameFront.PNG)
 
-
-- The studio **packs into transportation cases** and is **delivered ready-to-assemble** to the customer.
-![Transportation Cases](TransportCases.jpg)
-
-
+- **Dimensions**: 6m x 6m x 4.5m – compact and modular.
 - **Exterior**: Blackout fabric for full light control.
 - **Interior**: Matte, non-reflective green screen fabric; comes with **two interchangeable backdrops**.
 - **Antilatency Tracking System**: Custom vertical pillars with IR markers are mounted on the trusses.
 - **Lighting**: Kit of lightweight light fixtures mounted on the trusses.
 - **Optional Add-on**: Front-facing camera rail system.
+- The studio **packs into transportation cases** and is **delivered ready-to-assemble** to the customer.
+![Transportation Cases](TransportCases.jpg)
 
 ## Exhibition Advantages
 

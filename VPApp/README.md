@@ -54,3 +54,36 @@ The encoded audio is sent back through the **VP Socket into the camera’s audio
 
 #### 4. Output  
 The camera outputs a **standard video signal** — either live via **HDMI/SDI**, or **recorded with tracking audio** on the SD card.
+
+---
+
+## Lens Calibration with Tracked Video
+
+Traditionally, lens calibration is **complex and time-consuming** — often requiring hours per lens and ideally a recalibration after every lens change.
+
+**VPApp** introduces a **fast calibration workflow** based on **Tracked Video**.
+
+Each **Antilatency marker** includes:
+   - **IR LEDs** for tracking
+   - A **green status LED** visible to the camera
+   
+As a result, Antilatency markers appear as **glowing green dots** in the recorded video — providing **precise visual reference points** for calibration.   
+   
+![IR Marker](IRMarker.jpg)
+
+
+
+
+#### Process:
+
+1. **Record a short Tracked Video** in the studio.
+
+2. Using the known tracking data and visible marker positions in the video, **the application computes**:
+
+- **Lens distortion parameters**, including Field of View (FOV)  
+- **Tracker placement** (position and rotation of the tracker)  
+- **Fixed offset** between tracking data and video stream  
+
+
+This workflow **significantly reduces manual calibration time and effort**, streamlining the setup for virtual production.
+![VP App Side](VPAppSide.jpg)
