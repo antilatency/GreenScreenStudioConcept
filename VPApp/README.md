@@ -34,7 +34,7 @@ Tracked Video becomes a **self-contained virtual production (VP) asset**, equall
 
 ---
 
-## Native Synchronization
+#### Native Synchronization
 
 - **Tracking data is encoded into the audio track.**
 - Since professional cameras maintain a **stable and predictable offset** between video and audio streams, synchronization is **deterministic and stable**.
@@ -43,16 +43,16 @@ Tracked Video becomes a **self-contained virtual production (VP) asset**, equall
 
 ---
 
-## How It Works
+### How It Works
 
-### 1. Tracking Data Collection  
+#### 1. Tracking Data Collection  
 Antilatency tracker sends real-time positional data via **VP Socket** to the **VPApp**, running on an Android device connected to the VP Socket.
 
-### 2. Audio Encoding  
+#### 2. Audio Encoding  
 The **VPApp encodes tracking data** into an audio signal.
 
-### 3. Injection into Camera  
+#### 3. Injection into Camera  
 The encoded audio is sent back through the **VP Socket into the camera’s audio input**, producing a **Tracked Video**.
 
-### 4. Output  
+#### 4. Output  
 The camera outputs a **standard video signal** — either live via **HDMI/SDI**, or **recorded with tracking audio** on the SD card.
