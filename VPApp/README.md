@@ -57,7 +57,7 @@ The camera outputs a **standard video signal** — either live via **HDMI/SDI**,
 
 ---
 
-### Lens Calibration with Tracked Video
+## Lens Calibration with Tracked Video
 
 Traditionally, lens calibration is **complex and time-consuming** — often requiring hours per lens and ideally a recalibration after every lens change.
 
