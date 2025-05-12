@@ -67,15 +67,16 @@ Each **Antilatency marker** includes:
    - **IR LEDs** for tracking
    - A **green status LED** visible to the camera
    
+As a result, Antilatency markers appear as **glowing green dots** in the recorded video — providing **precise visual reference points** for calibration.   
+   
 ![IR Marker](IRMarker.jpg)
 
-As a result, Antilatency markers appear as **glowing green dots** in the recorded video — providing **precise visual reference points** for calibration.
+
 
 
 #### Process:
 
 1. **Record a short Tracked Video** in the studio.
-![VP App Side](VPAppSide.jpg)
 
 2. Using the known tracking data and visible marker positions in the video, the system computes:
 
@@ -83,6 +84,6 @@ As a result, Antilatency markers appear as **glowing green dots** in the recorde
 - **Tracker placement** (position and rotation of the tracker)  
 - **Fixed offset** between tracking data and video stream  
 
----
 
 This workflow **significantly reduces manual calibration time and effort**, streamlining the setup for virtual production.
+![VP App Side](VPAppSide.jpg)
