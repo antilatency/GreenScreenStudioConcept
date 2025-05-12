@@ -3,11 +3,11 @@
 ## Studio Specifications
 
 - **Dimensions**: 6m x 6m x 4.5m – compact and modular.
-![Frame Overview](FlatFrameFront.png)
+![Frame Overview](FlatFrameFront.PNG)
 
 
 - The studio **packs into transportation cases** and is **delivered ready-to-assemble** to the customer.
-![Transportation Cases](TransportCases.png)
+![Transportation Cases](TransportCases.jpg)
 
 
 - **Exterior**: Blackout fabric for full light control.
