@@ -53,7 +53,7 @@ This means the calibration video contains everything needed for precise optical 
 Only 15–20 seconds of footage is required to generate a complete and accurate CameraCalibrationProfile.
 To generate the profile, upload the calibration video into the **Antilatency.LensCalibrationTool** —
 the app will return a ready-to-use ``CameraCalibrationProfile.json`` for Unreal Engine.
-[Learn more about TrackedVideo technology](VPApp\README.md)
+[Learn more about TrackedVideo technology](VPApp/README.md)
 
 ## Unreal Engine Keying and Compositing
 How it works:
