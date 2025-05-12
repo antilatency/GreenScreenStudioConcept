@@ -38,7 +38,7 @@ CyberGaffer delivers the most precise real-world approximation of virtual scene 
 
 ## Antilatency Camera Tracking and Lens Calibration
 Integrated with our brand-new **TrackedVideo technology** — a breakthrough in tracking data synchronization.
-![TrackingTitle](./TrackingTitle.JPG.jpg)
+![TrackingTitle](TrackingTitle.JPG)
 
 TrackedVideo encodes tracking data directly into the camera’s audio line-in. This ensures perfect sync with the video feed at all times, regardless of transmission pipeline delay.
 
@@ -98,3 +98,7 @@ Since tracking data is embedded in the video stream, all of these tools can be u
 
 The studio comes with a **pre-engineered lighting layout**, designed through simulations.
 This ensures optimal light distribution and uniform chroma key illumination — from day one.
+
+
+## Render Server
+![Server](ServerTitle.jpg)
