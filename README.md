@@ -100,5 +100,9 @@ The studio comes with a **pre-engineered lighting layout**, designed through sim
 This ensures optimal light distribution and uniform chroma key illumination — from day one.
 
 
-## Render Server
+## Preconfigured Hardware Kit: Render Servers and Networking
+
+The studio package also includes a **set of servers, recorders, and networking equipment**.  
+All hardware is **pre-configured and ready for use**, with all necessary software **pre-installed on the servers**.  
+This significantly **reduces setup time** and ensures a smooth and efficient studio deployment process.
 ![Server](ServerTitle.jpg)
